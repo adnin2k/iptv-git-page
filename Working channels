@@ -1,0 +1,73 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiXWc-isjnTLU03hIr3eZ0W6fXQMBNsghkPvYax7zzn2_4Gk7NN_tmNyc8vVnHdONtP2M&usqp=CAU" tvg-name="Channel T1"  group-title="New Group",Channel T1
+http://irbtv.net/channelt1/1080/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png" tvg-name="DBC News 1080p"  group-title="New Group",DBC News 1080p
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.ekushey-tv.com/media/common/EkusheyTVLogo.png" tvg-name="Ekushey"  group-title="New Group",Ekushey
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png" tvg-name="SATV"  group-title="New Group",SATV
+https://bd.jaagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/live-orgin/satvoff5666.stream/chunks.m3u8?nimblesessionid=1197130260&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOToxNTowNyBBTSZoYXNoX3ZhbHVlPVcxMFczQWhaU0M0TnhOa0Z2cGJKYlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ==
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="somoy"  group-title="New Group",somoy
+https://somoy.jaagobd.com:444/somoy/somoyt000011226615544544.stream/live-orgin/somoyt000011226615544544.stream_480p/chunks.m3u8?nimblesessionid=1197144607
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Global Tv"  group-title="New Group",Global Tv
+http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/globaltv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://i.imgur.com/pTJSGtj.png" tvg-name="Boishakhi TV"  group-title="New Group",Boishakhi TV
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Independent TV"  group-title="New Group",Independent TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Channel 24"  group-title="New Group",Channel 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Deepto TV"  group-title="New Group",Deepto TV
+http://iptvbd.jagobd.com:1931/live-orgin/deeptotv.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="DBC News"  group-title="New Group",DBC News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="News 24"  group-title="New Group",News 24
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sony Aath"  group-title="New Group",Sony Aath
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Boomerang"  group-title="New Group",Boomerang
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Pogo"  group-title="New Group",Pogo
+http://144.217.70.181:9587/hin2/POGO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Sangeet Bangla"  group-title="New Group",Sangeet Bangla
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="Animal Planet"  group-title="New Group",Animal Planet
+https://h5.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=144145924&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0MjoxNCBBTSZoYXNoX3ZhbHVlPWR3OTJBWDNCUlduZmlFWVdMOTRMVUE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" tvg-name="Animal Planet Alt"  group-title="New Group",Animal Planet Alt
+https://h2.ustvgo.la/Animal/myStream/chunks.m3u8?nimblesessionid=254259378&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0NDoyMyBBTSZoYXNoX3ZhbHVlPUhOSTJiV2xZaE1EeEdRSFdnZ0lIY1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="NatGeo Wild"  group-title="New Group",NatGeo Wild
+https://h3.ustvgo.la/NatGEOWild/myStream/chunks.m3u8?nimblesessionid=247189050&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0NToyNiBBTSZoYXNoX3ZhbHVlPVlTSnBEclQ0cGl6K1p4ODJmUUhPOVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="New Logo" tvg-name="Nickelodean"  group-title="New Group",Nickelodean
+https://h5.ustvgo.la/Nickelodeon/myStream/chunks.m3u8?nimblesessionid=144147163&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0NjoyOSBBTSZoYXNoX3ZhbHVlPVZaRnpmeEtJL2U1SmlrOGZ3KzNDb1E9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/nicktoons.png" tvg-name="Nicktoons"  group-title="New Group",Nicktoons
+https://h2.ustvgo.la/Nicktoons/myStream/chunks.m3u8?nimblesessionid=254260758&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0ODowMyBBTSZoYXNoX3ZhbHVlPURKL0lVUXJBMmt1SmxGbmVIM0N1cVE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/08/disney-xd-768x432-1.png" tvg-name="Disney XD"  group-title="New Group",Disney XD
+https://h4.ustvgo.la/DisneyXD/myStream/chunks.m3u8?nimblesessionid=246555754&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0ODo0NSBBTSZoYXNoX3ZhbHVlPWMxaU16WVdqbFlUMkdrNWNZNXpRbnc9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/disney-269x151.png" tvg-name="Disney Channel"  group-title="New Group",Disney Channel
+https://h3.ustvgo.la/Disney/myStream/chunks.m3u8?nimblesessionid=247190097&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo0OToyOSBBTSZoYXNoX3ZhbHVlPVNSRXN3SmoxTGRubER6Rks4SVk2blE9PSZ2YWxpZG1pbnV0ZXM9MjQw
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/cartoon-network.jpg" tvg-name="Cartoon network"  group-title="New Group",Cartoon network
+https://h5.ustvgo.la/CN/myStream/chunks.m3u8?nimblesessionid=144148430&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjIgOTo1MDo0OCBBTSZoYXNoX3ZhbHVlPU5pTlBJdSsrRDJaMjJRTGpZMlRRK3c9PSZ2YWxpZG1pbnV0ZXM9MjQw
